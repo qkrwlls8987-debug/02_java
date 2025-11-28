@@ -1,4 +1,7 @@
+package com.mins.section02.packageandimport;
+
 import com.mins.section01.method.Calculator;
+
 public class Application2 {
 
   // [import]
